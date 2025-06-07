@@ -1,4 +1,4 @@
-# Jennifer.gethub.io
+# Jennifer Liao
 
 # Education
 High School
