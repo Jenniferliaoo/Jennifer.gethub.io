@@ -1,9 +1,9 @@
 # Jennifer Liao
-
+currently in taipei
 ### Education
-High School; Kang Chiao International School
+High School; Kang Chiao International School; 11th grade
 
-### Activities
+### About - Activities
 
 MUN Chair
 
