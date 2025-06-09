@@ -1,13 +1,11 @@
-# Jennifer Liao
+### Jennifer Liao
 
 # Education
 High School
 
-# Computer Language
-Python, Java(APCSA)
-
 # Activities
 Kang Chiao Computer Science Club(KCCS),
+
 MUN Chair,
 2024 Youth Model APEC,
 SKT-SIC 2024 S10,
