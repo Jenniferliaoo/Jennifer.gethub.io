@@ -7,6 +7,9 @@ currently in taipei
 ### Education 🫧
 High School; Kang Chiao International School; 11th grade
 
+### Currently wants to go to...
+ChongQing, Newyork, Tokyo, Seoul ...
+
 ### About - Activities🌺
 
 MUN Chair
