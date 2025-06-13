@@ -21,6 +21,9 @@ MUN Chair
 SKT-SIC 2024 S10
 
 X-Culture & Coaching Program
+- Provided mentorship and guidance to international student teams, ensuring effective collaboration and project management.
+- Assisted in resolving cross-cultural communication challenges and facilitating productive teamwork.
+- Reviewed and provided feedback on business reports, helping teams refine their market entry strategies and professional presentations.
 
 AIT Ocean Challenge
 
