@@ -1,4 +1,6 @@
-# Jennifer Liao🦩🥞![Image](https://github.com/user-attachments/assets/d2128daf-09c0-4e64-9931-a65df428db3d)
+# Jennifer Liao🦩🥞
+
+![Image](https://github.com/user-attachments/assets/d2128daf-09c0-4e64-9931-a65df428db3d)
 currently in taipei
 
 "Diplomacy-driven, code-powered, and fueled by food" 😛😛🥑
