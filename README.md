@@ -15,7 +15,7 @@ MUN Chair
 
 SKT-SIC 2024 S10
 
-X-Culture Coaching Program
+X-Culture & Coaching Program
 
 AIT Ocean Challenge
 
