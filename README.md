@@ -12,6 +12,7 @@ High School; Kang Chiao International School; 11th grade
 
 ### Currently wants to go to...
 ChongQing, Newyork, Tokyo, Seoul ...
+![Image](https://github.com/user-attachments/assets/0957020d-de8e-4638-89cf-d8f7f066224a)
 ![Image](https://github.com/user-attachments/assets/00d6d1c8-ed05-4e06-b308-a1f67bb89237)
 ### About - Activities🌺
 
