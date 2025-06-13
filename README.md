@@ -7,10 +7,11 @@ currently in taipei
 🍟🧀🍔🥚🍕🥟🍣🧈🥞🍱🍳🥦🍠🍡🥮🍯🍩🍿🍫🍮🧊🥩🥓🍗🍑🍒🍓🍉🍋
 ### Education 🫧
 High School; Kang Chiao International School; 11th grade
-
+![Image](https://github.com/user-attachments/assets/0957020d-de8e-4638-89cf-d8f7f066224a) ![Image](https://github.com/user-attachments/assets/00d6d1c8-ed05-4e06-b308-a1f67bb89237)
+![Image](https://github.com/user-attachments/assets/0d994d23-419b-432c-840d-28c9cde409f2)
 ### Currently wants to go to...
 ChongQing, Newyork, Tokyo, Seoul ...
-![Image](https://github.com/user-attachments/assets/0957020d-de8e-4638-89cf-d8f7f066224a) ![Image](https://github.com/user-attachments/assets/00d6d1c8-ed05-4e06-b308-a1f67bb89237)
+
 ### About - Activities🌺
 
 MUN Chair
