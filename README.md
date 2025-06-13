@@ -15,10 +15,24 @@ ChongQing, Newyork, Tokyo, Seoul ...
 ### About - Activities🌺
 
 MUN Chair
+- Leading committee sessions, guiding debates, and ensuring procedural adherence to foster a dynamic and productive diplomatic environment.
+- Developing detailed background guides and resolutions on global issues, enhancing delegates’ understanding of international affairs.
 
+TECHNOVATION Girls China x ASDAN China
+- Certificate of completion (for completing the 2023 TECHNOVATION GIRLS China GIRL HACK WEEK SUMMER PROGRAM)
+- Certificate of third prize winner (for excellent performance in the 2023 TECHNOVATION GIRLS China GIRL HACK WEEK Summer Program)   
+- Developed a Stagnant Water Detector System (SWDS) prototype using Python, addressing real-life issues and aligning with the UN SDGs.         
 2024 Youth Model APEC
+- Engaging regional youth in a two-day Model APEC training program to learn about APEC’s operations and regional challenges.
+- Providing opportunities for participants to interact with experts and practice discussing and presenting regional issues in a formal setting.         
 
 SKT-SIC 2024 S10
+- Participating in stock market simulations and making predictions during the Junior Division preliminary stage.
+- Gaining hands-on experience in financial investment strategies under the guidance of the SKT-SIC Organizing Committee.
+
+Network For Teaching Entrepreneurship (NFTE) Competition
+- Developing a comprehensive business model plan for the Stagnant Water Detector System (SWDS), focusing on its market potential, feasibility, and impact.
+- Gaining entrepreneurial skills by integrating real-world business strategies, problem-solving, and innovation into the project.
 
 X-Culture & Coaching Program
 - Provided mentorship and guidance to international student teams, ensuring effective collaboration and project management.
@@ -26,10 +40,16 @@ X-Culture & Coaching Program
 - Reviewed and provided feedback on business reports, helping teams refine their market entry strategies and professional presentations.
 
 AIT Ocean Challenge
+- Participating in an entrepreneurship challenge aligned with the UN Decade of Marine Science, hosted by the Ocean Affairs Council and AIT.
+- Developing a business model plan for an eco-friendly submarine to reduce marine pollution and support environmental sustainability.
 
 Kang Chiao Computer Science Club(KCCS)
+- Founded the Kang Chiao Computer Science Club (KCCS) to teach Python programming through practical projects.
+- Led a team of 20 students as the President, completing coding projects and games like Hangman and Rock Paper Scissors.
 
 2024 Young Innovator Competition (YIC) 
+- Developing a comprehensive business model for the Stagnant Water Detector System (SWDS), addressing market needs, feasibility, and implementation strategies.
+- Presenting the plan to judges, showcasing the system's potential impact on public health 
 
 Volunteer | New Taipei City Family Service Center | Taipei
 ![Image](https://github.com/user-attachments/assets/d2128daf-09c0-4e64-9931-a65df428db3d)
