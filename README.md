@@ -1,7 +1,8 @@
-# Jennifer Liao🦩
+# Jennifer Liao🦩🥞
 currently in taipei
 
 "Diplomacy-driven, code-powered, and fueled by food" 😛😛🥑
+
 🍟🧀🍔🥚🍕🥟🍣🧈🥞
 ### Education 🫧
 High School; Kang Chiao International School; 11th grade
